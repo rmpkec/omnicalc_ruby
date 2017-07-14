@@ -59,3 +59,5 @@ It is a collection of calculators that do various things; count the number of wo
  1. Make lots of commits and Push them to GitHub as you are working.
  1. I suggest making a new branch for every new feature that you start working on.
  1. Ask lots of questions!
+ 
+ #1
